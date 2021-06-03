@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ryankolsen
 - 👀 I’m interested in ... coding, audible books, and my daughter
-- 🌱 I’m currently learning ... react
-- 💞️ I’m looking to collaborate on ... anything python, javascript, full stack, front end, back end development
+- 🌱 I’m currently learning ... React
+- 💞️ I’m looking to collaborate on ... anything python or java with, and/or javascript, full stack, front end or back end development
 - 📫 How to reach me ... ryankolsen@gmail.com
 
 <!---
